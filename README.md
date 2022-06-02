@@ -8,7 +8,7 @@
 </h1>
   
   <p align="center">
-  INFORMAÇÕES DO TRABALHO
+ Para esse trabalho implementamos um algoritmo de fibonacci, onde as threads se alternavam a cada 1000 valores para auxiliar os cálculos.
     <br />
   Alunos: Venícius Jacob Pereira de Oliveira, Rosialdo Queivison Vidinho de Queiroz Vicente e Lucas Ribeiro
     <br />
