@@ -5,8 +5,7 @@
   </a>
 
   <h1 align="center"> Trabalho sobre Concorrência
-</h1>
-   <h1 align="center"> DCC402_2022
+    DCC402_2022
 </h1>
   
   <p align="center">
