@@ -6,8 +6,8 @@
 
   <h1 align="center"> Trabalho sobre Concorrência
 </h1>
-  <h2> DCC402_2022
-  </h2>
+   <h1 align="center"> DCC402_2022
+</h1>
   
   <p align="center">
  Para esse trabalho implementamos um algoritmo de fibonacci, onde as threads se alternavam a cada 1000 valores para auxiliar os cálculos.
