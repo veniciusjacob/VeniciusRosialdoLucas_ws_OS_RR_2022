@@ -9,7 +9,7 @@
 </h1>
   
   <p align="center">
- Para esse trabalho implementamos um algoritmo de fibonacci, até o número 1000000, onde as threads se alternam a cada 1000 valores para auxiliar os cálculos.
+ Para esse trabalho implementamos um algoritmo de fibonacci, até o número 1000000 da sequência, onde as threads se alternam a cada 1000 valores para auxiliar os cálculos.
     <br />
   <br/>
   Alunos: Venícius Jacob Pereira de Oliveira, Rosialdo Queivison Vidinho de Queiroz Vicente e Lucas Ribeiro Alvino
