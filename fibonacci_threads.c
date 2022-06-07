@@ -3,9 +3,6 @@
 #include <stdlib.h>
 #include <semaphore.h>
 
-
-
-
 pthread_mutex_t mutex;
 sem_t semaphore;
 
@@ -48,7 +45,6 @@ int main(){
         
     }    
     pthread_mutex_destroy(&mutex);
-  
     
     return 0;
 }
